@@ -1,0 +1,44 @@
+.topbox{
+    width: 100vw;
+    height: 125px;
+    background-color: rgb(221, 219, 219)
+    
+}
+.littlebluesquare{
+    height: 75%;
+    width: 5%;
+    background-color: rgb(92, 175, 243);
+    margin-left: 25px;
+    display: inline-block;
+    margin-top: 16px
+    
+    
+}
+.words{
+    font-size: 40px;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: arial;
+}
+.blueline{
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(57, 160, 245)
+}
+.tealline{
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(6, 223, 194)
+}
+
+.mintline{
+    width: 100vw;
+    height:15vh;
+    background-color: rgb(155, 230, 140)
+}
+.yellowline{
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(242, 245, 63)
+}
